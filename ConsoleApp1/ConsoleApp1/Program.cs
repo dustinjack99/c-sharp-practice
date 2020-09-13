@@ -6,8 +6,11 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-            Console.WriteLine("This is a test!");
+            Console.WriteLine("Enter your name, or else!");
+            string name = Console.ReadLine();
+            Console.WriteLine("Enter your age, or else!");
+            string age = Console.ReadLine();
+            Console.WriteLine("How's if goin', " + name + "? You are: " + age);
         }
     }
 }
