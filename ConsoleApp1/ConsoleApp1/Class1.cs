@@ -29,7 +29,7 @@ namespace ConsoleApp1
                 Console.Write(num1 / num2);
             } else
             {
-                Console.WriteLine("Invalid Operation")
+                Console.WriteLine("Invalid Operation");
             }
 
             Console.WriteLine(GetMax(304, 601, 506));
@@ -52,6 +52,6 @@ namespace ConsoleApp1
             return result;
         }
 
-        private 
+      
     }
 }
