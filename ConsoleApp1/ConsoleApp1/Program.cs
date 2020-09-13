@@ -25,9 +25,9 @@ namespace ConsoleApp1
             //var ArrMeth = new ClassArrayMethod();
             //ArrMeth.ArrayMethodLesson();
             
-            //Import If Lesson
-            var If = new ClassIfLesson();
-            If.IfLesson();
+            //Import Loop Lessons
+            var If = new ClassLoopLessons();
+            If.LoopLessons();
 
         }
     }
