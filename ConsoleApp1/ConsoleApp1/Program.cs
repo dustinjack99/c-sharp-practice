@@ -14,16 +14,20 @@ namespace ConsoleApp1
             //Console.WriteLine("How's if goin', " + name + "? You are: " + age);
 
             //Import Calculator
-            //var Calc = new ClassCalculator();
-            //Calc.Calculator();
+            var Calc = new ClassCalculator();
+            Calc.Calculator();
 
             //Import Madlib
             //var Mad = new ClassMadlib();
             //Mad.Madlib();
 
             //Import Array / Method Lesson
-            var ArrMeth = new ClassArrayMethod();
-            ArrMeth.ArrayMethodLesson();
+            //var ArrMeth = new ClassArrayMethod();
+            //ArrMeth.ArrayMethodLesson();
+            
+            //Import If Lesson
+            //var If = new ClassIfLesson();
+            //If.IfLesson();
 
         }
     }
