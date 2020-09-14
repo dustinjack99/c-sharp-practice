@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Runtime.InteropServices.ComTypes;
 using System.Text;
 
 namespace ConsoleApp1
@@ -7,6 +8,23 @@ namespace ConsoleApp1
     public class ClassCalculator
     {
         public void Calculator()
+        {
+            Console.WriteLine(Exponent(3, 3));
+        }
+
+        private int Exponent(int baseNum, int powNum)
+        {
+            int result = 1;
+            
+            for (int i = 0; i < powNum; i++)
+            {
+                result = result * baseNum;
+            }
+
+            return result;
+        }
+
+        private void RealCalc()
         {
             Console.Write("Enter a number: ");
             double num1 = Convert.ToDouble(Console.ReadLine());
@@ -18,16 +36,20 @@ namespace ConsoleApp1
             if (op == "+")
             {
                 Console.Write(num1 + num1);
-            } else if (op == "-")
+            }
+            else if (op == "-")
             {
                 Console.Write(num1 - num2);
-            } else if (op == "*")
+            }
+            else if (op == "*")
             {
                 Console.Write(num1 * num2);
-            } else if (op == "/")
+            }
+            else if (op == "/")
             {
                 Console.Write(num1 / num2);
-            } else
+            }
+            else
             {
                 Console.WriteLine("Invalid Operation");
             }

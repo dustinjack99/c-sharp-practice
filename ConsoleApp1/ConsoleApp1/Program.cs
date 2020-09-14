@@ -22,12 +22,12 @@ namespace ConsoleApp1
             //Mad.Madlib();
 
             //Import Array / Method Lesson
-            //var ArrMeth = new ClassArrayMethod();
-            //ArrMeth.ArrayMethodLesson();
+            var ArrMeth = new ClassArrayMethod();
+            ArrMeth.ArrayMethodLesson();
             
             //Import Loop Lessons
-            var If = new ClassLoopLessons();
-            If.LoopLessons();
+            //var If = new ClassLoopLessons();
+            //If.LoopLessons();
 
         }
     }
