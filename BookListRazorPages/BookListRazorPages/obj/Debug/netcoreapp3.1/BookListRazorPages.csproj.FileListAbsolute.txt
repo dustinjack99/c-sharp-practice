@@ -378,3 +378,5 @@ C:\Users\dusti\Desktop\projects\c-sharp-practice\BookListRazorPages\BookListRazo
 C:\Users\dusti\Desktop\projects\c-sharp-practice\BookListRazorPages\BookListRazorPages\obj\Debug\netcoreapp3.1\BookListRazorPages.csproj.CoreCompileInputs.cache
 C:\Users\dusti\Desktop\projects\c-sharp-practice\BookListRazorPages\BookListRazorPages\obj\Debug\netcoreapp3.1\BookListRazorPages.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\dusti\Desktop\projects\c-sharp-practice\BookListRazorPages\BookListRazorPages\obj\Debug\netcoreapp3.1\BookListRazorPages.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dusti\Desktop\projects\c-sharp-practice\BookListRazorPages\BookListRazorPages\obj\Debug\netcoreapp3.1\Razor\Pages\BookList\Index.cshtml.g.cs
+C:\Users\dusti\Desktop\projects\c-sharp-practice\BookListRazorPages\BookListRazorPages\obj\Debug\netcoreapp3.1\Razor\Pages\BookList\Create.cshtml.g.cs
