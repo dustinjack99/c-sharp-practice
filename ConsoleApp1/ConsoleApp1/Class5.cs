@@ -9,6 +9,7 @@ namespace ConsoleApp1
         public string title;
         public string author;
         public int pages;
+        public static string cover = "Hard";
 
         //Constructor
         public Book(string title, string author, int pages)

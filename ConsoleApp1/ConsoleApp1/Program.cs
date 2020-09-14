@@ -36,11 +36,20 @@ namespace ConsoleApp1
             //Console.WriteLine(book2.title);
 
             //Class Methods
-            Student student1 = new Student("Jim", "Business", 2.8);
-            Student student2 = new Student("Pam", "Art", 3.6);
+            //Student student1 = new Student("Jim", "Business", 2.8);
+            //Student student2 = new Student("Pam", "Art", 3.6);
+            //Console.WriteLine(student1.Honors());
+            //Console.WriteLine(student2.Honors());
 
-            Console.WriteLine(student1.Honors());
-            Console.WriteLine(student2.Honors());
+            //Static Classes / Methods
+            //UsefulTools.SayHi("Toots");
+
+            //Inheritance
+            ItalianChef italianChef = new ItalianChef();
+            italianChef.MakeSpecialDish();
+
+            Chef chef = new Chef();
+            chef.MakeSpecialDish();
         }
     }
 }
