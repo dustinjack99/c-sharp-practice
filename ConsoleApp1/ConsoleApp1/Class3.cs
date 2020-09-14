@@ -16,12 +16,16 @@ namespace ConsoleApp1
 
         private void TwoDee()
         {
+            // Declare 2D Array
             int[,] numGrid = {
                 {1, 2 },
                 {3, 4 },
                 {5, 6 }
 
             };
+
+            // 2D Array with 2 rows and 3 columns
+            int[,] myArray = new int[2, 3];
 
 
             Console.WriteLine(numGrid[0, 0]);

@@ -4,7 +4,26 @@ using System.Text;
 
 namespace ConsoleApp1
 {
-    class Class5
+    class Book
     {
+        public string title;
+        public string author;
+        public int pages;
+
+        //Constructor
+        public Book(string title, string author, int pages)
+        {
+            this.title = title;
+            this.author = author;
+            this.pages = pages;
+        }
+
+        //You are allowed to have multiple constructors / empty constructors
+        public Book ()
+        {
+
+        }
+
+                
     }
 }
