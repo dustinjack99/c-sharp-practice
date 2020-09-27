@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dusti\\Desktop\\projects\\c-sharp-practice\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
-      "projectName": "ConsoleApp1",
-      "projectPath": "C:\\Users\\dusti\\Desktop\\projects\\c-sharp-practice\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "C:\\Users\\dusti\\Desktop\\projects\\c-sharp-practice\\ConsoleApp1\\ConsoleApp1\\cSharpStart.csproj",
+      "projectName": "cSharpStart",
+      "projectPath": "C:\\Users\\dusti\\Desktop\\projects\\c-sharp-practice\\ConsoleApp1\\ConsoleApp1\\cSharpStart.csproj",
       "packagesPath": "C:\\Users\\dusti\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\dusti\\Desktop\\projects\\c-sharp-practice\\ConsoleApp1\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
