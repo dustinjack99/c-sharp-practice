@@ -4,8 +4,13 @@ using System.Text;
 
 namespace More_Practice
 {
-    class Loops
+    interface IPayee
     {
-       
+        public void Pay()
+        {
+        }
+    }
+    class Payroll
+    {
     }
 }

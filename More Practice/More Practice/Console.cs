@@ -14,6 +14,14 @@ namespace Util
             return System.Console.ReadLine();
         }
 
+        //you can overload a function if you pass different parameters
+        //this is how functions get more than one data type
+        static public string Ask(int question)
+        {
+            System.Console.Write(question);
+            return System.Console.ReadLine();
+        }
+
         static public int AskInt(string question)
         {
             try
