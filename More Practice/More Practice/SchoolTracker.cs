@@ -19,7 +19,8 @@ namespace More_Practice
         static List<Student> students = new List<Student>();
         static void Main(string[] args)
         {
-
+            Payroll payroll = new Payroll();
+            payroll.PayAll();
 
             var adding = true;
 
@@ -39,8 +40,6 @@ namespace More_Practice
 
                     newStudent.Address = Util.Console.Ask("Student Address: ");
 
-                    newStudent.Phone = Util.Console.AskInt("Student Phone: ");
-
                     students.Add(newStudent);
                     Student.Count++;
                     Console.WriteLine("Student Count: {0}", Student.Count);
@@ -54,7 +53,7 @@ namespace More_Practice
                     {
                         Console.WriteLine("Name: {0}, Grade: {1}", student.Name, student.Grade);
                     }
-                    Exports();
+                 
                 }
                 //You can write more than one catch block!!
                 catch (FormatException msg)
@@ -93,32 +92,48 @@ namespace More_Practice
                 }
             }
         }
+
+        static void ShowGrade(string name)
+        {
+            var found = students.Find(predicate);
+        }
+
+        static bool predicate(Student student)
+        {
+            if(student.Name == "Jim")
+            return true;
+            else 
+            return false; 
+        }
     }
     class Member
     {
+        public string Name { get; set; }
         //this is known as the field: 
         //they become C# properties when they are given the getter and setter functions
-        public string Name;
         public string Birthday;
         public string Address;
         //lowercase variables are considered private
-        protected int phone;
 
         //setting a property 
         //used like a class variable, but behaves like a function
-        public int Phone
-        {
-            set { phone = value; }
-        }
+        protected int Phone { get; set; }
+
+
+
+        
+
     }
     class Student : Member
     {
         //static variables are shared across all instances - wicked cool
         //shared by the class and not the instance of the class
         static public int Count = 0;
-        public int Grade;
-        public School School;
+        public int Grade { get; set; }
+        public School School { get; set; }
 
+
+        //multiple constructors will run back-to-back 
         public Student()
         {
 
@@ -133,13 +148,4 @@ namespace More_Practice
             Phone = phone;
         }
     }
-
-    class Teacher : Member
-    {
-        public string Subject;
-
-
-
-    }
-
 }
