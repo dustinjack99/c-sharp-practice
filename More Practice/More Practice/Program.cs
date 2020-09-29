@@ -16,34 +16,45 @@ namespace More_Practice
 
             while(adding)
             {
-                var newStudent = new Student();
-
-                newStudent.Name = Util.Console.Ask("Student Name: ");
-              
-                newStudent.Grade = int.Parse(Util.Console.Ask("Student Grade: "));
-            
-                newStudent.Birthday = Util.Console.Ask("Student Birthday: ");
-       
-                newStudent.Address = Util.Console.Ask("Student Address: ");
-               
-                newStudent.Phone = int.Parse(Util.Console.Ask("Student Phone: "));
-
-                students.Add(newStudent);
-                Student.Count++;
-                Console.WriteLine("Student Count: {0}", Student.Count);
-
-                Console.WriteLine("Add another? y/n");
-
-                if (Console.ReadLine() != "y")
-                    adding = false;
-
-                foreach (var student in students)
+                try
                 {
-                    Console.WriteLine("Name: {0}, Grade: {1}", student.Name, student.Grade);
-                } 
-                
+                    var newStudent = new Student();
 
+                    newStudent.Name = Util.Console.Ask("Student Name: ");
+
+                    newStudent.Grade = Util.Console.AskInt("Student Grade: ");
+                    
+                    newStudent.Birthday = Util.Console.Ask("Student Birthday: ");
+
+                    newStudent.Address = Util.Console.Ask("Student Address: ");
+
+                    newStudent.Phone = Util.Console.AskInt("Student Phone: ");
+
+                    students.Add(newStudent);
+                    Student.Count++;
+                    Console.WriteLine("Student Count: {0}", Student.Count);
+
+                    Console.WriteLine("Add another? y/n");
+
+                    if (Console.ReadLine() != "y")
+                        adding = false;
+
+                    foreach (var student in students)
+                    {
+                        Console.WriteLine("Name: {0}, Grade: {1}", student.Name, student.Grade);
+                    }
             }
+            //You can write more than one catch block!!
+                catch (FormatException msg)
+            {
+                Console.WriteLine(msg);
+            }
+            catch (Exception)
+            {
+
+                Console.WriteLine("Error: Incorrect value entered.");
+            }
+        }
         }
 
         static void Import()
