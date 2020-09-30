@@ -21,7 +21,7 @@ namespace EssentialTrainingTests
         {
             var testInstance = new SimpleArray();
 
-            Assert.IsTrue(testInstance.GroceryList.ToString().StartsWith("There are "));
+            Assert.IsTrue(testInstance.GroceryList.ToString().StartsWith("There are"));
         }
     }
 }
