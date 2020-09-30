@@ -1,0 +1,9 @@
+C:\Users\dusti\Desktop\projects\c-sharp-practice\Ex_Files_CSharpEssT_2\EssentialTraining\EssentialTraining\bin\Debug\netstandard2.0\EssentialTraining.deps.json
+C:\Users\dusti\Desktop\projects\c-sharp-practice\Ex_Files_CSharpEssT_2\EssentialTraining\EssentialTraining\bin\Debug\netstandard2.0\EssentialTraining.dll
+C:\Users\dusti\Desktop\projects\c-sharp-practice\Ex_Files_CSharpEssT_2\EssentialTraining\EssentialTraining\bin\Debug\netstandard2.0\EssentialTraining.pdb
+C:\Users\dusti\Desktop\projects\c-sharp-practice\Ex_Files_CSharpEssT_2\EssentialTraining\EssentialTraining\obj\Debug\netstandard2.0\EssentialTraining.csprojAssemblyReference.cache
+C:\Users\dusti\Desktop\projects\c-sharp-practice\Ex_Files_CSharpEssT_2\EssentialTraining\EssentialTraining\obj\Debug\netstandard2.0\EssentialTraining.AssemblyInfoInputs.cache
+C:\Users\dusti\Desktop\projects\c-sharp-practice\Ex_Files_CSharpEssT_2\EssentialTraining\EssentialTraining\obj\Debug\netstandard2.0\EssentialTraining.AssemblyInfo.cs
+C:\Users\dusti\Desktop\projects\c-sharp-practice\Ex_Files_CSharpEssT_2\EssentialTraining\EssentialTraining\obj\Debug\netstandard2.0\EssentialTraining.csproj.CoreCompileInputs.cache
+C:\Users\dusti\Desktop\projects\c-sharp-practice\Ex_Files_CSharpEssT_2\EssentialTraining\EssentialTraining\obj\Debug\netstandard2.0\EssentialTraining.dll
+C:\Users\dusti\Desktop\projects\c-sharp-practice\Ex_Files_CSharpEssT_2\EssentialTraining\EssentialTraining\obj\Debug\netstandard2.0\EssentialTraining.pdb

@@ -1,0 +1,16 @@
+C:\Users\dusti\Desktop\projects\c-sharp-practice\Ex_Files_CSharpEssT_2\EssentialTraining\EssentialTrainingTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\dusti\Desktop\projects\c-sharp-practice\Ex_Files_CSharpEssT_2\EssentialTraining\EssentialTrainingTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\dusti\Desktop\projects\c-sharp-practice\Ex_Files_CSharpEssT_2\EssentialTraining\EssentialTrainingTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\dusti\Desktop\projects\c-sharp-practice\Ex_Files_CSharpEssT_2\EssentialTraining\EssentialTrainingTests\bin\Debug\EssentialTrainingTests.dll
+C:\Users\dusti\Desktop\projects\c-sharp-practice\Ex_Files_CSharpEssT_2\EssentialTraining\EssentialTrainingTests\bin\Debug\EssentialTrainingTests.pdb
+C:\Users\dusti\Desktop\projects\c-sharp-practice\Ex_Files_CSharpEssT_2\EssentialTraining\EssentialTrainingTests\bin\Debug\EssentialTraining.dll
+C:\Users\dusti\Desktop\projects\c-sharp-practice\Ex_Files_CSharpEssT_2\EssentialTraining\EssentialTrainingTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\dusti\Desktop\projects\c-sharp-practice\Ex_Files_CSharpEssT_2\EssentialTraining\EssentialTrainingTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\dusti\Desktop\projects\c-sharp-practice\Ex_Files_CSharpEssT_2\EssentialTraining\EssentialTrainingTests\bin\Debug\EssentialTraining.pdb
+C:\Users\dusti\Desktop\projects\c-sharp-practice\Ex_Files_CSharpEssT_2\EssentialTraining\EssentialTrainingTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\dusti\Desktop\projects\c-sharp-practice\Ex_Files_CSharpEssT_2\EssentialTraining\EssentialTrainingTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\dusti\Desktop\projects\c-sharp-practice\Ex_Files_CSharpEssT_2\EssentialTraining\EssentialTrainingTests\obj\Debug\EssentialTrainingTests.csprojAssemblyReference.cache
+C:\Users\dusti\Desktop\projects\c-sharp-practice\Ex_Files_CSharpEssT_2\EssentialTraining\EssentialTrainingTests\obj\Debug\EssentialTrainingTests.csproj.CoreCompileInputs.cache
+C:\Users\dusti\Desktop\projects\c-sharp-practice\Ex_Files_CSharpEssT_2\EssentialTraining\EssentialTrainingTests\obj\Debug\EssentialTrainingTests.csproj.CopyComplete
+C:\Users\dusti\Desktop\projects\c-sharp-practice\Ex_Files_CSharpEssT_2\EssentialTraining\EssentialTrainingTests\obj\Debug\EssentialTrainingTests.dll
+C:\Users\dusti\Desktop\projects\c-sharp-practice\Ex_Files_CSharpEssT_2\EssentialTraining\EssentialTrainingTests\obj\Debug\EssentialTrainingTests.pdb

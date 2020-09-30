@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "SwkBnvw77knqQH4Pp8rvtu43Gz0Two4G7r6ayaXgmnHcygn5PjAuwl0rSK4NTh85y6ps5hzlliDCHNVoieKyMA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dusti\\Desktop\\projects\\c-sharp-practice\\Ex_Files_CSharpEssT_2\\EssentialTraining\\EssentialTraining\\EssentialTraining.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dusti\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\dusti\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
